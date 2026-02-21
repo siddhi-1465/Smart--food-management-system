@@ -209,9 +209,7 @@ Delivery confirmed → Status: delivered → Both can rate
 
 ---
 
-## 📄 License
 
-MIT License — free to use, modify, and distribute.
 
 ---
 
